@@ -1,0 +1,27 @@
+{
+  "name": "postcss-issue-907",
+  "version": "1.0.0",
+  "description": "Example for postcss issue 907.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airdrummingfool/postcss-issue-907.git"
+  },
+  "author": "Tommy Goode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airdrummingfool/postcss-issue-907/issues"
+  },
+  "homepage": "https://github.com/airdrummingfool/postcss-issue-907#readme",
+  "dependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-usemin": "^0.3.25"
+  }
+}
